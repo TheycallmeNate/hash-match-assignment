@@ -1,0 +1,15 @@
+{
+  "name": "hash-match-assignment",
+  "version": "1.0.0",
+  "description": "1. Create a simple express app;\r 2. Create a hash from the text \"ReskillAmericans123\" and save this as a variable.\r 3. Create a POST route that accepts a single field (\"pass\").\r 4. This route will check if the value of the field \"pass\" matches the saved hash.\r 5. Send the result of this match as response to the client\r 6. Submit a link to your repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
